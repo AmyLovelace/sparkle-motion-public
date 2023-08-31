@@ -1,0 +1,27 @@
+{
+  "createAccount": "Create an account to sparkle",
+  "signUp": "Sign Up",
+  "userNameLabel": "User name",
+  "emailLabel": "Email Address",
+  "passwordLabel": "Password",
+  "signInLink": "Already have an account? Sign in",
+  "welcome": "Welcome",
+  "rememberMeLabel": "Remember me",
+  "signInButton": "Sign In",
+  "forgotPasswordLink": "Forgot password?",
+  "userCreatedSuccessMessage": "User created succesfully!",
+  "changeLanguage": "change language",
+  "required": "User name is required",
+  "required2": "Password is required",
+  "min": "Password must be at least 8 characters long",
+  "matches": "Password must contain at least one uppercase letter and one number",
+  "browserNotSupportSpeech": "The browser does not support speech recognition.",
+  "userLoginErrorMessage": "Invalid credentials. Please try again.",
+  "userLoginErrorMessageTwo": "A login error occurred",
+  "confirmPasswordLabel":"Confirm password",
+  "passwordsDoNotMatch":"Passwords do not match",
+  "closeHistory":"Close history",
+  "openHistory":"Open history"
+
+
+}

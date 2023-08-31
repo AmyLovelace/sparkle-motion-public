@@ -1,0 +1,27 @@
+{
+    "createAccount": "Crear una cuenta para brillar",
+    "signUp": "Registrarse",
+    "userNameLabel": "Nombre de usuario",
+    "emailLabel": "Correo electrónico",
+    "passwordLabel": "Contraseña",
+    "signInLink": "¿Ya tienes una cuenta? Iniciar sesión",
+    "welcome": "Bienvenido",
+    "rememberMeLabel": "Recuérdame",
+    "signInButton": "Iniciar sesión",
+    "forgotPasswordLink": "¿Olvidaste tu contraseña?",
+    "userCreatedSuccessMessage": "Usuario creado exitosamente!",
+    "changeLanguage": "cambiar lenguaje",
+    "required": "El nombre del usuario es obligatorio",
+    "required2": "la contraseña es obligatoria",
+    "min": "La contraseña debe tener al menos 8 caracteres",
+    "matches": "La contraseña debe incluir al menos una mayúscula y un número",
+    "browserNotSupportSpeech": "El navegador no admite el reconocimiento de voz",
+    "userLoginErrorMessage": "Credenciales inválidas. Por favor, intenta de nuevo",
+    "userLoginErrorMessageTwo": "Ocurrió un error en el inicio de sesión",
+    "confirmPasswordLabel":"Confirma la contraseña",
+    "passwordsDoNotMatch":"las contraseñas no coinciden",
+    "closeHistory":"Cerrar historial",
+    "openHistory":"Abrir historial"
+
+
+}
